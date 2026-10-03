@@ -1,0 +1,4 @@
+Flask==3.0.3
+Gunicorn==22.0.0
+PyMySQL==1.1.1
+PyJWT==2.9.0

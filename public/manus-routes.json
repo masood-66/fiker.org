@@ -1,0 +1,140 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Home"
+    },
+    {
+      "path": "/about/",
+      "title": "About"
+    },
+    {
+      "path": "/work/",
+      "title": "Work"
+    },
+    {
+      "path": "/youth/",
+      "title": "Youth"
+    },
+    {
+      "path": "/youth/forum/",
+      "title": "Youth · Forum"
+    },
+    {
+      "path": "/protection/",
+      "title": "Protection"
+    },
+    {
+      "path": "/protection/rights/",
+      "title": "Protection · Rights"
+    },
+    {
+      "path": "/protection/staying-safe/",
+      "title": "Protection · Staying Safe"
+    },
+    {
+      "path": "/protection/online-safety/",
+      "title": "Protection · Online Safety"
+    },
+    {
+      "path": "/protection/help/",
+      "title": "Protection · Help"
+    },
+    {
+      "path": "/projects/",
+      "title": "Projects"
+    },
+    {
+      "path": "/events/",
+      "title": "Events"
+    },
+    {
+      "path": "/stories/",
+      "title": "Stories"
+    },
+    {
+      "path": "/gallery/",
+      "title": "Gallery"
+    },
+    {
+      "path": "/resources/",
+      "title": "Resources"
+    },
+    {
+      "path": "/volunteer/",
+      "title": "Volunteer"
+    },
+    {
+      "path": "/contact/",
+      "title": "Contact"
+    },
+    {
+      "path": "/privacy/",
+      "title": "Privacy"
+    },
+    {
+      "path": "/terms/",
+      "title": "Terms"
+    },
+    {
+      "path": "/admin/forum/",
+      "title": "Admin · Forum"
+    },
+    {
+      "path": "/work/child-protection/",
+      "title": "Work · Child Protection"
+    },
+    {
+      "path": "/work/education/",
+      "title": "Work · Education"
+    },
+    {
+      "path": "/work/youth/",
+      "title": "Work · Youth"
+    },
+    {
+      "path": "/work/climate/",
+      "title": "Work · Climate"
+    },
+    {
+      "path": "/work/learning/",
+      "title": "Work · Learning"
+    },
+    {
+      "path": "/work/community/",
+      "title": "Work · Community"
+    },
+    {
+      "path": "/projects/muhafiz/",
+      "title": "Projects · Muhafiz"
+    },
+    {
+      "path": "/projects/rahimabad-school-session/",
+      "title": "Projects · Rahimabad School Session"
+    },
+    {
+      "path": "/projects/sonikot-school-session/",
+      "title": "Projects · Sonikot School Session"
+    },
+    {
+      "path": "/projects/baseen-school-sessions/",
+      "title": "Projects · Baseen School Sessions"
+    },
+    {
+      "path": "/projects/amphari-awareness/",
+      "title": "Projects · Amphari Awareness"
+    },
+    {
+      "path": "/stories/muhafiz-volunteer-call/",
+      "title": "Stories · Muhafiz Volunteer Call"
+    },
+    {
+      "path": "/stories/safety-starts-with-a-conversation/",
+      "title": "Stories · Safety Starts With A Conversation"
+    },
+    {
+      "path": "/stories/your-voice-matters/",
+      "title": "Stories · Your Voice Matters"
+    }
+  ]
+}
